@@ -7,20 +7,20 @@
 
 ## Примеры работы
 Входные данные: 
-boys = ['Peter', 'Alex', 'John', 'Arthur', 'Richard', 'Максим']
-girls = ['Снежана', 'Kate', 'Лиза', 'Kira', 'Emma', 'Trisha', ]
+boys = ['Peter', 'Alex', 'John', 'Arthur', 'Richard', 'Максим'] 
+girls = ['Снежана', 'Kate', 'Лиза', 'Kira', 'Emma', 'Trisha', ] 
 
 Результат: 
-Идеальные пары:
-Alex и Emma
-Arthur и Kate
-John и Kira
-Peter и Trisha
-Richard и Лиза
-Максим и Снежана
+Идеальные пары: 
+Alex и Emma 
+Arthur и Kate 
+John и Kira 
+Peter и Trisha 
+Richard и Лиза 
+Максим и Снежана 
 
 Входные данные: 
-boys = ['Peter', 'Alex', 'John', 'Arthur', 'Richard', 'Максим']
+boys = ['Peter', 'Alex', 'John', 'Arthur', 'Richard', 'Максим'] 
 girls = ['Kate', 'Лиза', 'Kira', 'Emma', 'Trisha',]
 
 Результат: 
